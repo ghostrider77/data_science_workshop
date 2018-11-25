@@ -1,0 +1,82 @@
+World's longest DNA sequence decoded
+
+A team of UK scientists have claimed the record for decoding the world's longest DNA sequence.
+
+The scientists produced a DNA read that is about 10,000 times longer than normal, and twice as large as a previous record holder, from Australia.
+
+This research has kick-started an Ashes-style competition to sequence an entire chromosome in a single read.
+
+The new holder of the trophy for world's longest DNA read is a team led by Matt Loose at Nottingham University.
+
+The advance is a technological one - this is about reading the DNA rather than the discovery of a particularly large genome. The DNA used for the long read came from a human.
+
+But the scientists hope the work will make it quicker and easier to sequence genetic information because, currently, DNA has to be chopped up into smaller pieces and then reassembled during the process of sequencing.
+
+Dr Loose's group also recently produced the most complete human genome sequence using a palm-sized "nanopore" sequencing machine. These potentially offer lower cost and faster processing for DNA sequencing.
+
+He told me: "There has been a competition running to see who can get the longest sequence. I think it is still friendly."
+
+Dr Loose went on to say: "Australia led for a while, but then we had a read just short of a million. People were then competing to beat the record, in particular to be the first person to get a million-base-pair read.
+
+"The friendly completion launched an Ashes style trophy that is supposed to travel around the world as people get the longest read."
+
+An Australian team from the Kinghorn Centre for Clinical Genomics was first to pass the million-base milestone.
+
+Making a jigsaw
+
+The technology that enables scientists to read runs of DNA sequences has come a long way since the millennium-era race to decode the first human genome.
+
+In the past 10 or so years, improvements in DNA sequencing technologies have meant that the original billion dollar human genome from 2001 can now be replicated for around $1000.
+
+As costs continue to tumble, there is an expectation that personalised DNA sequencing is not far away. We might soon have our genome decoded during a trip to the doctor's surgery, or more controversially, our parents might have it read for us, before we are even born.
+
+But one of the remaining stumbling blocks is to put the DNA pieces together in the correct order. Just as it is theoretically possible, but quite unlikely, that a chimpanzee might reproduce a work of Shakespeare with one finger typing, computer programs are unable to re-assemble genomes from short, jumbled DNA sequences.
+
+Dr Loose told me: "There are lots of ways by which you can read DNA, but the problem is that the genetic code, or genome, is often many billions of bases, and so to read them all is very difficult.
+
+"People have used many different ways in the past, but essentially what they do is chop the DNA up into small pieces and then assemble them back together, a bit like what you would do with a jigsaw puzzle.
+
+"You try to get overlapping images so that you can find where the sky is and where the trees are and you can build your picture."
+
+He explained: "Nanopore sequencing promised lower cost and higher read lengths which means that we can look at interesting organisms which are yet to be sequenced, because their genomes are extraordinarily large."
+
+Just as the scientists are competing to produce the longest DNA sequence, the technology companies are jostling to become market-leaders in delivering these new advances.
+
+In the future, these methods promise to both revolutionise the understanding of human health, and also bring the same methods to other plants and animals. Long-read DNA sequencing might be used to identify pathogens in foodstuffs, be employed in disease control in animals, used for the diagnosis of infection, and find uses in a vast number of food-related areas.
+
+'Whale watching'
+
+I asked Dr Loose about the excited references to "whale-watching" on social media.
+
+"We wanted a way of distinguishing long reads. What does 'long' mean? It used to mean reads of 300 bases instead of 150, then it meant 5,000. So we came up with the whale scale - a million base pair read would be equivalent to a whale of about a tonne in weight, like a narwhal.
+
+"The longest read that we have at the moment is a beluga whale".
+
+I asked him how long it will be before we have a "blue whale" read from a whole chromosome.
+
+Matt told me: "It would be fantastic to sequence a whole chromosome, if that is possible. If we scale the nanopore up to the size of a human fist, then a megabase of DNA is a rope of 3.2 km, which you have to thread through your fingers without it getting tangled or breaking.
+
+"There is also a really interesting question of how many breaks each chromosome has. I am not sure you will ever be able to sequence a chromosome from one end to the other.
+
+Record breaking read
+
+Dr Loose said of the record-breaking read: "In theory, nanopore sequencing allows you to sequence any length molecule of DNA. That's really quite different to how we have been sequencing DNA for many years now. The breakthrough in this paper is that we have been able to sequence a molecule of 2.3 million bases in length, which no one has ever been able to do before.
+
+"Previously, the most common read length would be 150 bases [bases, or base-pairs, are the the four "letters" that make up the DNA sequence].
+
+"We were recently teaching people in Singapore how to use these sequencers at the same time as the grand prix. If the Singapore grand prix track is the same as 150 bases, then a 2.3 million base pair read is twice around the circumference of the earth" he explained. 
+
+In November 2017, Dr Martin Smith from the Kinghorn Centre for Clinical Genomics in Australia announced that they had a read over a million bases. According to Dr Loose, the Ashes trophy was being packaged to make the journey to Australia, just as Nottingham produced a winning 1.2 million base pair read. That has now been surpassed again by the Beluga-sized 2.3 million base pair read.
+
+These advances did not go down too well in Australia, with Dr Smith jokingly responding with "Loose sucks" image, using a mock-up of the nanopore software.
+What are the potential applications?
+
+Dr Loose hopes that we will start to use these methods to look at things like cancer genomes, where the DNA gets rearranged. Chromosomes break and they fuse back incorrectly.
+
+In an interview, Dr Smith told me that the first record-breaking baby "whale" of 473,000 bases was from a cancer cell line.
+
+His team is studying these patient-derived cancer cells because their genomes are particularly disordered, much like a jigsaw puzzle that is missing pieces and has parts from another puzzle. In the future, the methods will also be used more routinely in the clinic, in disease outbreaks, and moving out of labs and into individuals' hands.
+
+I also asked both scientists how long they thought the current record will stand and who will take the trophy next. Both agreed that the record might last for a year or so, but disagreed on who might win, whether the UK, Australia or a newcomer.
+
+With a friendly look, Dr Smith told me: "Matt should sleep with one eye open, because talking about this long read stuff has made me thirsty for a record again. Keep an eye out, we are going to get that Ashes cup again one day."
